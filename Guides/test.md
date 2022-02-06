@@ -2,7 +2,7 @@
 
 This is a paragraph.
 
-Both [internal](README.md) and [external](https://example.com) links work.
+Both [internal](readme.md) and [external](https://example.com) links work.
 
 ![Your logo](logo.png)
 
@@ -25,3 +25,6 @@ Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples
 !!!
 Need to draw attention to something? Use an alert.
 !!!
+
+**test** hod you doin?
+
